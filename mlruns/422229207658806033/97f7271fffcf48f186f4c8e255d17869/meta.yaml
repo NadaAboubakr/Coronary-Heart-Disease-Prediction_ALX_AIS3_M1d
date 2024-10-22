@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/Desktop/grad%20project/mlruns/422229207658806033/97f7271fffcf48f186f4c8e255d17869/artifacts
+end_time: 1729311647420
+entry_point_name: ''
+experiment_id: '422229207658806033'
+lifecycle_stage: active
+run_id: 97f7271fffcf48f186f4c8e255d17869
+run_name: test 1
+run_uuid: 97f7271fffcf48f186f4c8e255d17869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729311633370
+status: 3
+tags: []
+user_id: acer
