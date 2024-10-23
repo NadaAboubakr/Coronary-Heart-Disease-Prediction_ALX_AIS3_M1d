@@ -4,7 +4,6 @@ Table of Contents
 - [Introduction](#introduction)
 - [Setup](#Setup)
 - [Usage](#Usage)
-- [Contributing](#Contributing)
 
 ## Introduction
 This project aims to predict whether a patient is likely to develop coronary heart disease within ten years using a dataset of health-related metrics. The model leverages data preprocessing, feature scaling, and machine learning algorithms to predict the risk of coronary heart disease (CHD).
