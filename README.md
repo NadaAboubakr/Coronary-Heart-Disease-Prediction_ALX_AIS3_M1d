@@ -18,7 +18,7 @@ Key steps of the project include:
 Prerequisites:
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- GUI Library: (e.g., Tkinter or PyQt) will be added once the GUI is integrated.
+- GUI Library: Tkinter 
 
 Installation Steps:
 1. Clone the repository:
@@ -36,5 +36,5 @@ Installation Steps:
 2. Data Visualization:
 - Open the `Visualization.ipynb` notebook to explore the dataset and generate key visualizations such as histograms, countplots, and correlation heatmaps.
 
-3. Predictions via GUI (coming soon):
-- A GUI application will be added to simplify the prediction process. Users will input patient details (e.g., age, cholesterol, blood pressure), and the model will output the risk of developing coronary heart disease within the next ten years.
+3. Predictions via GUI:
+- A GUI application is added to simplify the prediction process. Users can input patient details (e.g., age, cholesterol, blood pressure), and the model will output the risk of developing coronary heart disease within the next ten years.
