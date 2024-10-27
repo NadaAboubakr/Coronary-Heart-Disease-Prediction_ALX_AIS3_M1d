@@ -4,6 +4,7 @@ Table of Contents
 - [Introduction](#introduction)
 - [Setup](#Setup)
 - [Usage](#Usage)
+- [Team_members](#Team_members)
 
 ## Introduction
 This project aims to predict whether a patient is likely to develop coronary heart disease within ten years using a dataset of health-related metrics. The model leverages data preprocessing, feature scaling, and machine learning algorithms to predict the risk of coronary heart disease (CHD).
@@ -38,3 +39,11 @@ Installation Steps:
 
 3. Predictions via GUI:
 - A GUI application is added to simplify the prediction process. Users can input patient details (e.g., age, cholesterol, blood pressure), and the model will output the risk of developing coronary heart disease within the next ten years.
+
+## Team_members
+- Nada Saad Aboubakr
+- Dalia Mamdouh
+- Mohamed Hassan
+- Hassan Elsayed
+- Khaled Elnahass
+- Ahmed Khaled
